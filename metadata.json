@@ -1,0 +1,6 @@
+{
+  "name": "Financial Research Assistant",
+  "description": "AI-powered investing assistant for SEC filings (10-K/10-Q), earnings call sentiment, risk assessment, and competitor benchmarking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
